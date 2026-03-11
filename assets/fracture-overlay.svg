@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+<g stroke="#ffffff" stroke-width="2" opacity="0.4">
+<line x1="100" y1="0" x2="200" y2="900"></line>
+<line x1="400" y1="0" x2="350" y2="900"></line>
+<line x1="800" y1="0" x2="900" y2="900"></line>
+<line x1="1200" y1="0" x2="1100" y2="900"></line>
+</g>
+</svg>

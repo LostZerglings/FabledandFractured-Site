@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+<rect width="100%" height="100%" fill="#111"></rect>
+<g fill="#1d1d24">
+<polygon points="0,900 150,500 300,900"></polygon>
+<polygon points="250,900 400,450 550,900"></polygon>
+<polygon points="500,900 650,480 800,900"></polygon>
+<polygon points="750,900 900,430 1050,900"></polygon>
+<polygon points="1000,900 1150,460 1300,900"></polygon>
+</g>
+</svg>
